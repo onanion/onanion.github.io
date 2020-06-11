@@ -12,7 +12,7 @@ Knowledge distillation library - implementations of various techniques and loss 
 
 ## [Student Welfare Division - BITS Goa](https://github.com/swd-bits-goa/swd_django)
 
-SWD Website to fascilitate students and institution. [Hosted Here](swd.bits-goa.ac.in)
+SWD Website to fascilitate students and institution. [Hosted Here](https://swd.bits-goa.ac.in)
 
 ## Emotion Detection using ML and Graph Network Analysis
 
