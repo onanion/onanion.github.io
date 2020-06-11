@@ -9,6 +9,16 @@
   name: Home
   icon: "fas fa-home"
 -
+  name: "About"
+  icon: "fas fa-info"
+  path: tabs
+  url: about
+-
+  name: "Projects"
+  icon: "fas fa-code-branch"
+  path: tabs
+  url: projects
+-
   name: Categories
   icon: "fas fa-stream"
   path: tabs
@@ -23,8 +33,3 @@
   path: tabs
   url: archives
   icon: "fas fa-archive"
--
-  name: "About"
-  icon: "fas fa-info"
-  path: tabs
-  url: about
