@@ -1,0 +1,23 @@
+[
+	{
+		"institute": "Birla Institute of Technology and Sciences, Pilani",
+		"location": "Goa, India",
+		"qualification": "B.E. (Hons) Electronics and Instrumentation Engineering",
+		"daterange": "2018 - 2022 (expected)",
+		"grade": "8.16 / 10.0"
+	},
+	{
+		"institute": "Tata Chem DAV Public School",
+		"location": "Babrala, India",
+		"qualification": "AISSCE (12th)",
+		"daterange": "2015 - 2017",
+		"grade": "96.60%"
+	},
+	{
+		"institute": "Tata Chem DAV Public School",
+		"location": "Babrala, India",
+		"qualification": "AISSE (10th)",
+		"daterange": "2015",
+		"grade": "10.0 / 10.0"
+	}
+]

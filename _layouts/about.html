@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{{ content }}
+
+<div class="education-list">
+  {% for i in site.data.education %}
+  <div class="institute">
+    <div class="institute-name font-weight-normal text-red border border-primary">
+      {{ i.institute }}
+    </div>
+    <div class="institute-location">
+      {{ i.location }}
+    </div>
+    <div class="institute-qual">
+      {{ i.qualification }}
+    </div>
+    <div class="institute-date">
+      {{ i.daterange }}
+    </div>
+    <div class="institute-grade">
+      {{ i.grade }}
+    </div>  
+  </div>
+  {% endfor %}
+  </div>
