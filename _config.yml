@@ -8,40 +8,41 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Stack 'em All                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Khizir Siddiqui personal website  # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+# description: >-                        # used by seo meta and the atom feed
+#   A minimal, portfolio, sidebar,
+#   bootstrap Jekyll theme with responsive web design
+#   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://khizirsiddiqui.github.io'
 
-author: your_full_name                  # change to your full name
+author: Mohd Khizir Siddiqui                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: khizirsiddiqui             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: siddiquikhizir            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Khizir Siddiqui                  # it will shows as the copyright owner in Footer
+  email: khizirsiddiqui@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/khizirsiddiqui       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/khizirsiddiqui
+    - https://www.linkedin.com/in/khizirsiddiqui
+    - https://stackoverflow.com/users/7643359/codeblooded
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+# google_site_verification: google_meta_tag_verification # change to your verification string
 
 #--------------------------
 
@@ -51,18 +52,18 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
-google_analytics:
-  id: ''          # Fill with your Google Analytics ID
-  pv:
-    # The Google Analytics pageviews switch.
-    # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
-    enabled: false
-    # the next options only valid when `google_analytics.pv` is enabled.
-    proxy_url: ''
-    proxy_endpoint: ''
-    cache: false  # pv data local cache, good for the users from GFW area.
+# google_analytics:
+#   id: ''          # Fill with your Google Analytics ID
+#   pv:
+#     # The Google Analytics pageviews switch.
+#     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
+#     enabled: false
+#     # the next options only valid when `google_analytics.pv` is enabled.
+#     proxy_url: ''
+#     proxy_endpoint: ''
+#     cache: false  # pv data local cache, good for the users from GFW area.
 
 disqus:
   comments: false  # boolean type, the global switch for posts comments.

@@ -8,4 +8,8 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+I am Mohd Khizir Siddiqui, an undergraduate in Birla Institute of Technology and Science, Pilani, Goa Campus. I have a keen inerest in Machine Learning and Deep Learning, especially related to Computer Vision.
+
+### Birla Institute of Technology and Science, Pilani
+
+B.E. (Hons) Electronics and Instrumentation Engineering (2018 - 2022)
