@@ -20,7 +20,7 @@ tagline: Khizir Siddiqui personal website  # it will display as the sub-title
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://khizirsiddiqui.github.io'
 
-author: Mohd Khizir Siddiqui                  # change to your full name
+author: Khizir Siddiqui                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
@@ -82,7 +82,7 @@ disqus:
 theme_mode: dual
 
 # boolean type, global switch for ToC in posts.
-toc: true
+toc: false
 
 paginate: 10
 
