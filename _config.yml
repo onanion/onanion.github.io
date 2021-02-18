@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Stack 'em All                          # the main title
+title: Onanion                          # the main title
 
 tagline: Khizir Siddiqui personal website  # it will display as the sub-title
 
@@ -18,28 +18,28 @@ tagline: Khizir Siddiqui personal website  # it will display as the sub-title
 #   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://khizirsiddiqui.github.io'
+url: 'https://onanion.github.io'
 
-author: Khizir Siddiqui                  # change to your full name
+author: Onanion                  # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: khizirsiddiqui             # change to your github username
+  username: onanion             # change to your github username
 
 twitter:
-  username: siddiquikhizir            # change to your twitter username
+  username: onanion            # change to your twitter username
 
 social:
-  name: Khizir Siddiqui                  # it will shows as the copyright owner in Footer
-  email: khizirsiddiqui@gmail.com             # change to your email address
+  name: Onanion                  # it will shows as the copyright owner in Footer
+  email: onanion@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/khizirsiddiqui       # change to your github homepage
+    - https://github.com/onanion       # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/khizirsiddiqui
-    - https://www.linkedin.com/in/khizirsiddiqui
+    - https://www.facebook.com/onanion
+    - https://www.linkedin.com/in/onanion
     - https://stackoverflow.com/users/7643359/codeblooded
 
 # google_site_verification: google_meta_tag_verification # change to your verification string
@@ -52,7 +52,7 @@ social:
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Kolkata
+timezone: Asia/Jakarta
 
 # google_analytics:
 #   id: ''          # Fill with your Google Analytics ID
